@@ -2,6 +2,7 @@ plugins {
     alias(libs.plugins.androidApplication)
 }
 
+
 android {
     namespace = "com.example.w13_lab"
     compileSdk = 34
